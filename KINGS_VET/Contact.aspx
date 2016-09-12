@@ -2,8 +2,8 @@
 
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
     <link href="styles/CSS_STYLES.css" rel="stylesheet" />
-    <h2><%: Title %>.</h2>
-    <h3>Your contact page.</h3>
+    <h2><%: Title %> us.</h2>
+    <h3>Our address, and feel free to send us a message for any inquiries!</h3>
     <address>
         Unit 12 Cuevasville Commercial Complex<br />
         Building 3<br />
@@ -14,7 +14,7 @@
     </address>
 
     <address>
-        <strong>Support:</strong>   <a href="mailto:Support@example.com">Support@example.com</a><br />
-        <strong>Marketing:</strong> <a href="mailto:Marketing@example.com">Marketing@example.com</a>
+        <strong>Facebook:</strong> <a href="http://facebook.com/kingsroadvetclinic" target="_blank">Click Here!</a>
+
     </address>
 </asp:Content>
