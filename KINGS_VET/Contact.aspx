@@ -1,6 +1,7 @@
 ﻿<%@ Page Title="Contact" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Contact.aspx.cs" Inherits="KINGS_VET.Contact" %>
 
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
+    <link href="styles/CSS_STYLES.css" rel="stylesheet" />
     <h2><%: Title %>.</h2>
     <h3>Your contact page.</h3>
     <address>

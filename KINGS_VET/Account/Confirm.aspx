@@ -1,6 +1,7 @@
 ﻿<%@ Page Title="Account Confirmation" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Confirm.aspx.cs" Inherits="KINGS_VET.Account.Confirm" Async="true" %>
 
 <asp:Content runat="server" ID="BodyContent" ContentPlaceHolderID="MainContent">
+    <link href="../styles/CSS_STYLES.css" rel="stylesheet" />
     <h2><%: Title %>.</h2>
 
     <div>

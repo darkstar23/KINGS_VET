@@ -1,6 +1,7 @@
 ﻿<%@ Page Title="Register an external login" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="RegisterExternalLogin.aspx.cs" Inherits="KINGS_VET.Account.RegisterExternalLogin" Async="true" %>
 
 <asp:Content runat="server" ID="BodyContent" ContentPlaceHolderID="MainContent">
+    <link href="../styles/CSS_STYLES.css" rel="stylesheet" />
 <h3>Register with your <%: ProviderName %> account</h3>
 
     <asp:PlaceHolder runat="server">
