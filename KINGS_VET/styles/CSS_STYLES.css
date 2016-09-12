@@ -32,8 +32,14 @@
 .navbar-brand
 {
     color: #000000;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    font-weight:bold;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 700;
 }
 
+.Link_Nav
+{
+    color: #000000;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 600;
+}
 
