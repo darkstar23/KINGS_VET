@@ -5,10 +5,12 @@
     <h2><%: Title %>.</h2>
     <h3>Your contact page.</h3>
     <address>
-        One Microsoft Way<br />
-        Redmond, WA 98052-6399<br />
+        Unit 12 Cuevasville Commercial Complex<br />
+        Building 3<br />
+        Daang Hari Road<br />
+        4102 Molino, Cavite, Philippines<br />
         <abbr title="Phone">P:</abbr>
-        425.555.0100
+        0932.885.7838
     </address>
 
     <address>
